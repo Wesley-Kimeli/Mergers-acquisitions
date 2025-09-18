@@ -1,0 +1,3 @@
+{"level":"info","message":"Greetings from Acquisition team","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [18/Sep/2025:06:35:34 +0000] \"GET / HTTP/1.1\" 200 35 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [18/Sep/2025:06:35:35 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
