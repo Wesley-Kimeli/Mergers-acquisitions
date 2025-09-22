@@ -1,3 +1,43 @@
 {"level":"info","message":"Greetings from Acquisition team","service":"acquisitions-api"}
 {"level":"info","message":"::1 - - [18/Sep/2025:06:35:34 +0000] \"GET / HTTP/1.1\" 200 35 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
 {"level":"info","message":"::1 - - [18/Sep/2025:06:35:35 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Greetings from Acquisition team","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [18/Sep/2025:08:30:23 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Greetings from Acquisition team","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [18/Sep/2025:10:28:03 +0000] \"GET / HTTP/1.1\" 200 35 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"Greetings from Acquisition team","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [18/Sep/2025:10:28:56 +0000] \"GET / HTTP/1.1\" 200 35 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"Greetings from Acquisition team","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [18/Sep/2025:10:28:59 +0000] \"GET / HTTP/1.1\" 200 35 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [18/Sep/2025:10:29:07 +0000] \"GET /api HTTP/1.1\" 200 53 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [18/Sep/2025:10:29:38 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [18/Sep/2025:10:30:19 +0000] \"GET /api/auth/sign-in HTTP/1.1\" 404 155 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [18/Sep/2025:10:30:54 +0000] \"GET /api/auth/sign-in HTTP/1.1\" 404 155 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [18/Sep/2025:10:30:55 +0000] \"GET /api/auth/sign-in HTTP/1.1\" 404 155 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [18/Sep/2025:10:30:55 +0000] \"GET /api/auth/sign-in HTTP/1.1\" 404 155 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [18/Sep/2025:10:31:16 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 404 156 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [18/Sep/2025:10:31:19 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 404 156 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [18/Sep/2025:10:31:19 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 404 156 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [18/Sep/2025:10:31:31 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 404 156 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [18/Sep/2025:10:32:18 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 404 156 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [18/Sep/2025:10:32:43 +0000] \"GET /api/auth/sign-in HTTP/1.1\" 404 155 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [18/Sep/2025:10:32:56 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 404 156 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [18/Sep/2025:10:35:39 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 404 156 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [18/Sep/2025:10:35:40 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 404 156 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [18/Sep/2025:10:35:41 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 404 156 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"Greetings from Acquisition team","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [20/Sep/2025:03:40:34 +0000] \"GET / HTTP/1.1\" 200 35 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Greetings from Acquisition team","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [21/Sep/2025:08:55:30 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Greetings from Acquisition team","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [21/Sep/2025:09:02:32 +0000] \"GET / HTTP/1.1\" 200 35 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"Greetings from Acquisition team","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Sep/2025:13:50:25 +0000] \"GET / HTTP/1.1\" 200 35 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Sep/2025:13:50:26 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Sep/2025:13:50:36 +0000] \"POST / HTTP/1.1\" 404 140 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"Greetings from Acquisition team","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Sep/2025:13:50:48 +0000] \"GET / HTTP/1.1\" 200 35 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Sep/2025:13:51:09 +0000] \"POST /api/auth/signin HTTP/1.1\" 404 155 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Sep/2025:13:51:16 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 400 144 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Sep/2025:13:53:52 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 400 144 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [22/Sep/2025:13:54:05 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 400 144 \"-\" \"HTTPie\"","service":"acquisitions-api"}
