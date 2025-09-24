@@ -138,3 +138,6 @@
 {"level":"info","message":"Getting user by id: 1","service":"acquisitions-api"}
 {"level":"info","message":"User developer41541@gmail.com retrieved successfully","service":"acquisitions-api"}
 {"level":"info","message":"::1 - - [24/Sep/2025:11:27:14 +0000] \"GET /api/users/1 HTTP/1.1\" 200 202 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [24/Sep/2025:13:38:11 +0000] \"GET /health HTTP/1.1\" 200 73 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [24/Sep/2025:13:38:11 +0000] \"GET /api HTTP/1.1\" 200 53 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [24/Sep/2025:13:38:11 +0000] \"GET /nonexsistent HTTP/1.1\" 404 27 \"-\" \"-\"","service":"acquisitions-api"}
