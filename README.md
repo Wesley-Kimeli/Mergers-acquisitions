@@ -349,5 +349,3 @@ For issues with:
 - **Application**: Check the application logs and health endpoint
 
 ---
-
-**Note**: Never commit real environment variables to version control. Always use `.local` versions of environment files for actual credentials.
