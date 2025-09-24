@@ -120,3 +120,21 @@
 {"level":"info","message":"::1 - - [23/Sep/2025:10:04:49 +0000] \"GET / HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
 {"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/","service":"acquisitions-api","userAgent":"HTTPie"}
 {"level":"info","message":"::1 - - [23/Sep/2025:10:04:52 +0000] \"GET / HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"Greetings from Acquisition team","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:11:21:57 +0000] \"GET / HTTP/1.1\" 200 35 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:11:21:58 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"User developer41541@gmail.com created successfully","service":"acquisitions-api"}
+{"level":"info","message":"User registered successfully: developer41541@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:11:23:33 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 123 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User developer41541@gmail.com authenticated successfully","service":"acquisitions-api"}
+{"level":"info","message":"User signed in successfully: developer41541@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:11:24:04 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 122 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User developer41541@gmail.com authenticated successfully","service":"acquisitions-api"}
+{"level":"info","message":"User signed in successfully: developer41541@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:11:26:21 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 122 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:11:26:59 +0000] \"POST /api/users/1 HTTP/1.1\" 404 151 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:11:27:08 +0000] \"POST /api/users/1 HTTP/1.1\" 404 151 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:11:27:09 +0000] \"POST /api/users/1 HTTP/1.1\" 404 151 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"Getting user by id: 1","service":"acquisitions-api"}
+{"level":"info","message":"User developer41541@gmail.com retrieved successfully","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [24/Sep/2025:11:27:14 +0000] \"GET /api/users/1 HTTP/1.1\" 200 202 \"-\" \"HTTPie\"","service":"acquisitions-api"}
