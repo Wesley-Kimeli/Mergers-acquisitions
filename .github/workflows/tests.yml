@@ -53,20 +53,20 @@ jobs:
         run: |
           echo "## 📊 Test Results" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          
+
           if [ -f "coverage/lcov-report/index.html" ]; then
             echo "✅ **Coverage reports generated successfully**" >> $GITHUB_STEP_SUMMARY
             echo "- Coverage artifacts uploaded with 30-day retention" >> $GITHUB_STEP_SUMMARY
           else
             echo "⚠️ **No coverage reports found**" >> $GITHUB_STEP_SUMMARY
           fi
-          
+
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "### Environment Variables Used:" >> $GITHUB_STEP_SUMMARY
           echo "- \`NODE_ENV\`: $NODE_ENV" >> $GITHUB_STEP_SUMMARY
           echo "- \`NODE_OPTIONS\`: $NODE_OPTIONS" >> $GITHUB_STEP_SUMMARY
           echo "- \`DATABASE_URL\`: [CONFIGURED]" >> $GITHUB_STEP_SUMMARY
-          
+
           if [ $? -eq 0 ]; then
             echo "" >> $GITHUB_STEP_SUMMARY
             echo "🎉 **All tests passed successfully!**" >> $GITHUB_STEP_SUMMARY

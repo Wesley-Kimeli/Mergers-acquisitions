@@ -1,17 +1,18 @@
 import express from 'express';
-import { authenticateToken, requireRole } from '../middleware/auth.middleware.js';
 import {
-    fetchAllUsers,
-    fetchUserById,
-    updateUserById,
-    deleteUserById,
+  authenticateToken,
+  requireRole,
+} from '../middleware/auth.middleware.js';
+import {
+  fetchAllUsers,
+  fetchUserById,
+  updateUserById,
+  deleteUserById,
 } from '../controllers/users.controller.js';
-
-
 
 const router = express.Router();
 
-// GET /users - Get all users (admin only) 
+// GET /users - Get all users (admin only)
 router.get('/', authenticateToken, fetchAllUsers);
 
 // GET /users/:id - Get user by ID (authenticated users only)
@@ -22,10 +23,10 @@ router.put('/:id', authenticateToken, updateUserById);
 
 // DELETE /users/:id - Delete user by ID (admin only)
 router.delete(
-    '/:id',
-    authenticateToken,
-    requireRole(['admin']),
-    deleteUserById
+  '/:id',
+  authenticateToken,
+  requireRole(['admin']),
+  deleteUserById
 );
 
 export default router;
